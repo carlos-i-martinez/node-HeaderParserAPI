@@ -24,6 +24,7 @@ app.get("/api/hello", function (req, res) {
   res.json({greeting: 'hello API'});
 });
 
+app.set('trust proxy', true);
 // Header Parser
 app.get('/api/whoami',function(req, res,next) {
   next();
