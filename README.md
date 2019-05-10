@@ -7,7 +7,7 @@ App Webpage: [Header Parser API](https://fcc-headerparser-apiproject.glitch.me "
 
 Glitch Project: [Header Parser API Glitch Project](https://glitch.com/~fcc-headerparser-apiproject)
  
-Completed API and Microservices Certification: [Certificate](https://www.freecodecamp.org/certification/carlitos/data-visualization "FreeCodeCamp.Com").
+Completed API and Microservices Certification: [Certificate](https://www.freecodecamp.org/certification/carlitos/apis-and-microservices "FreeCodeCamp.Com").
 
 ## Technologies Used:
 > * HTML, JavaScript, CSS, Node.js and Express.js   
